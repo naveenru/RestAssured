@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-07T21:14:06 IST" name="Testing Google Apps" finished-at="2021-08-07T21:14:08 IST" duration-ms="1914">
+    <groups>
+    </groups>
+    <test started-at="2021-08-07T21:14:06 IST" name="Regression" finished-at="2021-08-07T21:14:08 IST" duration-ms="1914">
+      <class name="com.rest.test.GetTest">
+        <test-method signature="GetRequest()[pri:0, instance:com.rest.test.GetTest@22bb5646]" started-at="2021-08-07T21:14:06 IST" name="GetRequest" finished-at="2021-08-07T21:14:08 IST" duration-ms="1879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetRequest -->
+      </class> <!-- com.rest.test.GetTest -->
+    </test> <!-- Regression -->
+  </suite> <!-- Testing Google Apps -->
+</testng-results>

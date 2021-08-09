@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="lib/TestNg/testng-7.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/TestNg/jcommander-1.81.jar"/>
+	<classpathentry kind="lib" path="lib/TestNg/groovy-3.0.8.jar"/>
+	<classpathentry kind="lib" path="lib/TestNg/httpclient-4.5.13.jar"/>
+	<classpathentry kind="lib" path="lib/TestNg/httpcore-4.4.14.jar"/>
+	<classpathentry kind="lib" path="lib/TestNg/httpmime-4.5.13.jar"/>
+	<classpathentry kind="lib" path="lib/TestNg/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="lib/others/jaxb-api-2.4.0-b180830.0359.jar"/>
+	<classpathentry kind="lib" path="lib/others/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/others/hamcrest-library-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/others/hamcrest-core-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/others/hamcrest-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/others/jquery-3.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/others/groovy-3.0.8.jar"/>
+	<classpathentry kind="lib" path="lib/log/log4j-api-2.14.1.jar"/>
+	<classpathentry kind="lib" path="lib/log/log4j-core-2.14.1.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/rest/json-path-4.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/rest/json-schema-validator-4.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/rest/rest-assured-4.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/rest/rest-assured-all-4.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/rest/rest-assured-common-4.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/rest/xml-path-4.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
